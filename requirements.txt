@@ -1,0 +1,6 @@
+viktor==14.7.1
+numpy
+matplotlib
+pandas
+scikit-learn
+plotly
